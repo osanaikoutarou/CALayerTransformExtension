@@ -15,6 +15,7 @@
 		1E66EC3A24DBD22600C68F84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E66EC3824DBD22600C68F84 /* LaunchScreen.storyboard */; };
 		1E66EC4524DBD22600C68F84 /* CALayerTransformExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E66EC4424DBD22600C68F84 /* CALayerTransformExampleTests.swift */; };
 		1E66EC5024DBD22600C68F84 /* CALayerTransformExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E66EC4F24DBD22600C68F84 /* CALayerTransformExampleUITests.swift */; };
+		1EBAC652270C17A100C2B5A6 /* AnimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBAC651270C17A100C2B5A6 /* AnimViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1E66EC4B24DBD22600C68F84 /* CALayerTransformExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CALayerTransformExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E66EC4F24DBD22600C68F84 /* CALayerTransformExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CALayerTransformExampleUITests.swift; sourceTree = "<group>"; };
 		1E66EC5124DBD22600C68F84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EBAC651270C17A100C2B5A6 /* AnimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1E66EC3624DBD22600C68F84 /* Assets.xcassets */,
 				1E66EC3824DBD22600C68F84 /* LaunchScreen.storyboard */,
 				1E66EC3B24DBD22600C68F84 /* Info.plist */,
+				1EBAC651270C17A100C2B5A6 /* AnimViewController.swift */,
 			);
 			path = CALayerTransformExample;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				1E66EC3224DBD22200C68F84 /* ViewController.swift in Sources */,
 				1E66EC2E24DBD22200C68F84 /* AppDelegate.swift in Sources */,
 				1E66EC3024DBD22200C68F84 /* SceneDelegate.swift in Sources */,
+				1EBAC652270C17A100C2B5A6 /* AnimViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
